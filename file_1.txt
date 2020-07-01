@@ -1,4 +1,4 @@
 Hello World!
 TechU Git Course
 Jotaro loves marine life!
-Ed is short
+Ed doesn't drink milk
